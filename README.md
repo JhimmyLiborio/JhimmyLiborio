@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JhimmyLiborio
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning mobile development
+- 👀 I’m interested in Java, Python e Data science
+- 🌱 I’m currently learning Python
 - 📫 How to reach me joeljhimmy@gmail.com
 
 <!---
